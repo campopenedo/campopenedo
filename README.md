@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @campopenedo
 - 👀 I’m interested in FullStack.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: campopenedo@protonmail.com
 
 <!---
